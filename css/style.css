@@ -380,8 +380,8 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 4em;
-  padding-bottom: 4em; /* Antes estaba en 9em, prueba con 4em o menos */
+  padding-top: 2em;      /* Valor reducido */
+  padding-bottom: 2em;   /* Valor reducido */
   clear: both;
   width: 100%;
   display: block; }
